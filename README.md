@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://i.pinimg.com/originals/30/19/e5/3019e58117c86c87d5506817a3b35a8b.gif">
 
 ### Hi there 👋
 
