@@ -25,7 +25,8 @@ Estou seguindo meu caminho pela Terra média e nessa parte da jornada resolvi es
    <a href= "https://www.notion.so/Hello-there-38f739bbab02481197f7d0d539eb3156" target="_blank">
      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 
-
+<div>
+  
 <a href="https://github.com/ChapeuG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChapeuG&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
 </a>
@@ -34,6 +35,8 @@ Estou seguindo meu caminho pela Terra média e nessa parte da jornada resolvi es
 </a>
 <br>
 
+<div>
+    
 <!--
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ChapeuG)
 -->
