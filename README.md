@@ -25,6 +25,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ChapeuG)
 
- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-rodrigues-5412b0177/)
- [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />](https://www.notion.so/Hello-there-38f739bbab02481197f7d0d539eb3156) 
+ [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-rodrigues-5412b0177/)[<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />](https://www.notion.so/Hello-there-38f739bbab02481197f7d0d539eb3156) 
