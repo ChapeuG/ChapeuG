@@ -7,6 +7,7 @@
 
 <p align="center"><img align="center" src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif">/></p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Um amante da tecnologia especialmente da robótica, por isso ainda pretendo criar um protótipo do Baymax! Sou apaixonado por RPGs e jogos de tabuleiro.
 Trabalhando como analista de produtos com 2 anos dentro de uma empresa de tecnologia, descobri na área de dados uma conexão maior com o meu propósito, por isso, hoje sou um iniciante e entusiasta da data science!
