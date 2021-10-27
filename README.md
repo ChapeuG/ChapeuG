@@ -7,11 +7,15 @@
 
 <p align="center"><img align="center" src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif">/></p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+##
+
+<p align="center"><img 
+src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python /> <img 
+src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt=postgres /> <img    
+src= "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt=jira /> <img                                                          
+src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=Postman /> <img 
+src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=mysql /></p><p align="center"> <img
+</p>
 
 
 Um amante da tecnologia especialmente da robótica, por isso ainda pretendo criar um protótipo do Baymax! Sou apaixonado por RPGs e jogos de tabuleiro.
