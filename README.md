@@ -10,7 +10,7 @@
 Um amante da tecnologia especialmente da robótica, por isso ainda pretendo criar um protótipo do Baymax! Sou apaixonado por RPGs e jogos de tabuleiro.
 Trabalhando como analista de produtos com 2 anos dentro de uma empresa de tecnologia, descobri na área de dados uma conexão maior com o meu propósito, por isso, hoje sou um iniciante e entusiasta da data science!
 
-**Nos dias atuais**
+Nos dias atuais
 Estou seguindo meu caminho pela Terra média e nessa parte da jornada resolvi escrever alguns artigos com conteúdos que estou aprendendo ou aprendi, contar talvez experiências que passei e passo na área de dados, surfar um maremoto, criar mini-robôs e talvez gravar alguns vídeos de conteúdos diversos.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ChapeuG)
