@@ -2,26 +2,16 @@
 <!--
 **ChapeuG/ChapeuG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif">
 
 ### Hi there 👋
 
+Um amante da tecnologia especialmente da robótica, por isso ainda pretendo criar um protótipo do Baymax! Sou apaixonado por RPGs e jogos de tabuleiro.
+> Trabalhando como analista de produtos com 2 anos dentro de uma empresa de tecnologia, descobri na área de dados uma conexão maior com o meu propósito, por isso, hoje sou um iniciante e entusiasta da data science!
 
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### **Nos dias atuais**
+> Estou seguindo meu caminho pela Terra média e nessa parte da jornada resolvi escrever alguns artigos com conteúdos que estou aprendendo ou aprendi, contar talvez experiências que passei e passo na área de dados, surfar um maremoto, criar mini-robôs e talvez gravar alguns vídeos de conteúdos diversos.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ChapeuG)
 
